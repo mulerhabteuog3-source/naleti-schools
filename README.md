@@ -1,0 +1,2 @@
+# naleti-schools
+schools management 
